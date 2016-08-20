@@ -9,3 +9,4 @@
 - [JavaScript and Functional Programming – Beth Allchurch | Developer](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/) 
 - [The Inner JSON Effect - The Daily WTF](http://thedailywtf.com/articles/the-inner-json-effect) 
 - [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await) 
+- [Table Report](http://www.stefankrause.net/js-frameworks-benchmark2/webdriver-java/table.html) 
