@@ -11,3 +11,4 @@
 - [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await) 
 - [Table Report](http://www.stefankrause.net/js-frameworks-benchmark2/webdriver-java/table.html) 
 - [toddmotto/public-apis: A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis) 
+- [ES6 Succinctly · @kamranahmedse](http://kamranahmed.info/blog/2016/04/04/es6-in-depth/) 
