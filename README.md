@@ -6,3 +6,4 @@
 ### August 20, 2016
 - [The rise of functional programming & the decline of Angular 2.0](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs) 
 - [Writing a JavaScript Framework - Sandboxed code evaluation | @RisingStack](https://blog.risingstack.com/writing-a-javascript-framework-sandboxed-code-evaluation/) 
+- [JavaScript and Functional Programming – Beth Allchurch | Developer](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/) 
