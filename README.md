@@ -12,3 +12,4 @@
 - [Table Report](http://www.stefankrause.net/js-frameworks-benchmark2/webdriver-java/table.html) 
 - [toddmotto/public-apis: A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis) 
 - [ES6 Succinctly · @kamranahmedse](http://kamranahmed.info/blog/2016/04/04/es6-in-depth/) 
+- [It’s the future — Medium](https://medium.com/@boopathi/it-s-the-future-7a4207e028c2#.q88cg7ojm) 
