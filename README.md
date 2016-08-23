@@ -17,3 +17,6 @@
 ### August 22, 2016
 - [You SHOULD Learn Vanilla JavaScript Before JS Frameworks - Snipcart](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks) 
 - [Refactoring Towards Functional Programming in JavaScript - RebootJeff.com](http://rebootjeff.github.io/blog/2015/06/14/refactoring-towards-functional-programming-in-javascript/) 
+
+### August 23, 2016
+- [Up-and-coming JavaScript frameworks to watch out for in 2016 DebugMe Blog](http://blog.debugme.eu/javascript-frameworks-libraries-2016/) 
