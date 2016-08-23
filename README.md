@@ -20,3 +20,4 @@
 
 ### August 23, 2016
 - [Up-and-coming JavaScript frameworks to watch out for in 2016 DebugMe Blog](http://blog.debugme.eu/javascript-frameworks-libraries-2016/) 
+- [Introduction · mostly-adequate-guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) 
