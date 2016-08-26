@@ -24,3 +24,6 @@
 
 ### August 25, 2016
 - [An Introduction to the Apollo Stack for the Uninitiated | The Meteor Chef](https://themeteorchef.com/snippets/an-introduction-to-the-apollo-stack-for-the-uninitiated/) 
+
+### August 26, 2016
+- [Writing a good React component – Medium](https://medium.com/@MoeSattler/writing-a-good-react-component-59624ed40b8e#.tzc8jafnh) 
