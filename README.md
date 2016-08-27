@@ -27,3 +27,6 @@
 
 ### August 26, 2016
 - [Writing a good React component – Medium](https://medium.com/@MoeSattler/writing-a-good-react-component-59624ed40b8e#.tzc8jafnh) 
+
+### August 28, 2016
+- [Functional JS - Lenses - Livecoding.tv](https://www.livecoding.tv/evilsoft/videos/d5BDO-functional-js-lenses) 
