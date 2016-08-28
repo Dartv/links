@@ -30,4 +30,3 @@
 
 ### August 28, 2016
 - [Functional JS - Lenses - Livecoding.tv](https://www.livecoding.tv/evilsoft/videos/d5BDO-functional-js-lenses) 
-- [Transducers.js: A JavaScript Library for Transformation of Data](http://jlongster.com/Transducers.js--A-JavaScript-Library-for-Transformation-of-Data) 
