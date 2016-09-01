@@ -30,3 +30,6 @@
 
 ### August 28, 2016
 - [Functional JS - Lenses - Livecoding.tv](https://www.livecoding.tv/evilsoft/videos/d5BDO-functional-js-lenses) 
+
+### September 1, 2016
+- [React Patterns](http://reactpatterns.com/?ref=mybridge.co) 
