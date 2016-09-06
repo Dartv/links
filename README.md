@@ -34,3 +34,6 @@
 ### September 1, 2016
 - [React Patterns](http://reactpatterns.com/?ref=mybridge.co) 
 - [Functional React Series — Part 1: Get your App outta my Component – Medium](https://medium.com/@adamterlson/functional-react-series-part-1-get-your-app-outta-my-component-92656ae13e25?ref=mybridge.co#.4zj0pi0ig) 
+
+### September 6, 2016
+- [Master the JavaScript Interview: What is Function Composition? – JavaScript Scene – Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.ureoacd6d) 
