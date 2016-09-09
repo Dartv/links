@@ -37,3 +37,6 @@
 
 ### September 6, 2016
 - [Master the JavaScript Interview: What is Function Composition? – JavaScript Scene – Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.ureoacd6d) 
+
+### September 9, 2016
+- [Animating like you just don’t care with Element.animate ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/) 
