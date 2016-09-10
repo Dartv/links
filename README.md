@@ -41,3 +41,6 @@
 ### September 9, 2016
 - [Animating like you just don’t care with Element.animate ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/) 
 - [20 Resources and tutorials about ReactJS framework - JS-Republic's Blog](http://blog.js-republic.com/20-resources-and-tutorials-about-reactjs-framework/) 
+
+### September 10, 2016
+- [The Elegance Of React – JavaScript Inside – Medium](https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19#.9flas7u9i) 
