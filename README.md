@@ -45,3 +45,6 @@
 ### September 10, 2016
 - [The Elegance Of React – JavaScript Inside – Medium](https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19#.9flas7u9i) 
 - [James Forbes - General Practicality of Ramda and Functional Techniques](https://james-forbes.com/?/posts/ramdaScrape) 
+
+### September 13, 2016
+- [JS web frameworks benchmark – Round 4 | Stefan_Krause.blog()](http://www.stefankrause.net/wp/?p=316) 
