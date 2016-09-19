@@ -51,3 +51,4 @@
 
 ### September 19, 2016
 - [How To Scale React Applications – Smashing Magazine](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) 
+- [feross/webtorrent: Streaming torrent client for the web](https://github.com/feross/webtorrent) 
