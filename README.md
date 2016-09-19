@@ -48,3 +48,6 @@
 
 ### September 13, 2016
 - [JS web frameworks benchmark – Round 4 | Stefan_Krause.blog()](http://www.stefankrause.net/wp/?p=316) 
+
+### September 19, 2016
+- [How To Scale React Applications – Smashing Magazine](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) 
