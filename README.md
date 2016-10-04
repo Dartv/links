@@ -52,3 +52,6 @@
 ### September 19, 2016
 - [How To Scale React Applications – Smashing Magazine](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) 
 - [feross/webtorrent: Streaming torrent client for the web](https://github.com/feross/webtorrent) 
+
+### October 4, 2016
+- [React Redux Meteor middlewares](https://gist.github.com/dbismut/35b89185998d68bc18fd) 
