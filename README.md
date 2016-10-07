@@ -58,3 +58,4 @@
 
 ### October 8, 2016
 - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
+- [FrontEnd North 2016](http://jazcash.com/frontend-north-2016/) 
