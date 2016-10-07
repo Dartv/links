@@ -55,3 +55,6 @@
 
 ### October 4, 2016
 - [React Redux Meteor middlewares](https://gist.github.com/dbismut/35b89185998d68bc18fd) 
+
+### October 8, 2016
+- [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
