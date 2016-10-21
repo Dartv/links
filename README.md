@@ -59,3 +59,6 @@
 ### October 8, 2016
 - [A Javascript journey with only six characters](http://jazcash.com/a-javascript-journey-with-only-six-characters/) 
 - [FrontEnd North 2016](http://jazcash.com/frontend-north-2016/) 
+
+### October 21, 2016
+- [Mapping Colorado’s 14er Mountains: React and Redux Mega Tutorial | appendTo](https://appendto.com/2016/10/mapping-colorados-14er-mountains-with-react-and-redux-mega-tutorial/) 
