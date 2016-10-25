@@ -62,3 +62,6 @@
 
 ### October 21, 2016
 - [Mapping Colorado’s 14er Mountains: React and Redux Mega Tutorial | appendTo](https://appendto.com/2016/10/mapping-colorados-14er-mountains-with-react-and-redux-mega-tutorial/) 
+
+### October 25, 2016
+- [Using Meteor as a Backend for Your Apps [Presentation] – Differential – Medium](https://medium.com/differential/using-meteor-as-a-backend-for-your-apps-presentation-2178e8f8e7bd#.yg0vqccld) 
