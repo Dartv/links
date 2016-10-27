@@ -66,3 +66,6 @@
 ### October 25, 2016
 - [Using Meteor as a Backend for Your Apps [Presentation] – Differential – Medium](https://medium.com/differential/using-meteor-as-a-backend-for-your-apps-presentation-2178e8f8e7bd#.yg0vqccld) 
 - [Swydo/blaze-apollo: Blaze integration for the Apollo Client](https://github.com/Swydo/blaze-apollo) 
+
+### October 27, 2016
+- [How to structure real world Redux/React application – Medium](https://medium.com/@yiquanzhou/how-to-structure-real-world-redux-react-application-d61e66a7dd36#.uvvbfxgk8) 
