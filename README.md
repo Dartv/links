@@ -69,3 +69,4 @@
 
 ### October 27, 2016
 - [How to structure real world Redux/React application – Medium](https://medium.com/@yiquanzhou/how-to-structure-real-world-redux-react-application-d61e66a7dd36#.uvvbfxgk8) 
+- [FineUploader/react-fine-uploader: Easily integrate Fine Uploader into a React app. Drop-in high-level components for a turn-key UI. Use small focused components to build a more custom UI.](https://github.com/FineUploader/react-fine-uploader) 
