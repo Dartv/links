@@ -73,3 +73,6 @@
 
 ### November 1, 2016
 - [reactstrap - Collapse](https://reactstrap.github.io/components/collapse/) 
+
+### November 2, 2016
+- [react_samples_list.md](https://gist.github.com/sAbakumoff/7b8510adcb16bded189d747e34f5e114#file-react_samples_list-md) 
