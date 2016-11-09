@@ -76,3 +76,6 @@
 
 ### November 2, 2016
 - [react_samples_list.md](https://gist.github.com/sAbakumoff/7b8510adcb16bded189d747e34f5e114#file-react_samples_list-md) 
+
+### November 9, 2016
+- [Worthwhile Testing: What to test in a React app (and why)](https://daveceddia.com/what-to-test-in-react-app/) 
