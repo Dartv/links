@@ -79,3 +79,6 @@
 
 ### November 9, 2016
 - [Worthwhile Testing: What to test in a React app (and why)](https://daveceddia.com/what-to-test-in-react-app/) 
+
+### November 12, 2016
+- [NARKOZ/hacker-scripts: Based on a true story](https://github.com/NARKOZ/hacker-scripts) 
