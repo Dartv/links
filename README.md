@@ -85,3 +85,4 @@
 - [NARKOZ/hacker-scripts: Based on a true story](https://github.com/NARKOZ/hacker-scripts) 
 - [Office UI Fabric](https://dev.office.com/fabric#/components) 
 - [Redux in a nutshell](https://gist.github.com/MarcoWorms/30758235f05faec844b8c06ce2e5bac9) 
+- [Gaya/functional-snake: Snake clone written in JavaScript using functional programming](https://github.com/Gaya/functional-snake) 
