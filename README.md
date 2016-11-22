@@ -89,3 +89,6 @@
 
 ### November 21, 2016
 - [So you want to learn React.js?](https://edgecoders.com/so-you-want-to-learn-react-js-a78801d3cd4d#.o5qht6sli) 
+
+### November 22, 2016
+- [Tips For a Better Redux Architecture: Lessons for Enterprise Scale](https://hashnode.com/post/tips-for-a-better-redux-architecture-lessons-for-enterprise-scale-civrlqhuy0keqc6539boivk2f) 
