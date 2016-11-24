@@ -92,3 +92,6 @@
 
 ### November 22, 2016
 - [Tips For a Better Redux Architecture: Lessons for Enterprise Scale](https://hashnode.com/post/tips-for-a-better-redux-architecture-lessons-for-enterprise-scale-civrlqhuy0keqc6539boivk2f) 
+
+### November 24, 2016
+- [Efficient JavaScript – Medium](https://medium.com/@xilefmai/efficient-javascript-14a11651d563#.loj3fdgyv) 
