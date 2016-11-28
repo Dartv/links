@@ -95,3 +95,6 @@
 
 ### November 24, 2016
 - [Efficient JavaScript – Medium](https://medium.com/@xilefmai/efficient-javascript-14a11651d563#.loj3fdgyv) 
+
+### November 28, 2016
+- [Select - Ant Design](https://ant.design/components/select/) 
