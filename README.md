@@ -98,3 +98,6 @@
 
 ### November 28, 2016
 - [Select - Ant Design](https://ant.design/components/select/) 
+
+### December 1, 2016
+- [Getting started](https://deepstream.io/tutorials/core/getting-started-quickstart/) 
