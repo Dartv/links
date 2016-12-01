@@ -101,3 +101,4 @@
 
 ### December 1, 2016
 - [Getting started](https://deepstream.io/tutorials/core/getting-started-quickstart/) 
+- [Frameworks without the framework: why didn't we think of this sooner? • Svelte](https://svelte.technology/blog/frameworks-without-the-framework/) 
