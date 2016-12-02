@@ -102,3 +102,6 @@
 ### December 1, 2016
 - [Getting started](https://deepstream.io/tutorials/core/getting-started-quickstart/) 
 - [Frameworks without the framework: why didn't we think of this sooner? • Svelte](https://svelte.technology/blog/frameworks-without-the-framework/) 
+
+### December 2, 2016
+- [samybob1/meteor-redux-middlewares: Middlewares to sync meteor reactive sources with redux store](https://github.com/samybob1/meteor-redux-middlewares/) 
