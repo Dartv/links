@@ -105,3 +105,6 @@
 
 ### December 2, 2016
 - [samybob1/meteor-redux-middlewares: Middlewares to sync meteor reactive sources with redux store](https://github.com/samybob1/meteor-redux-middlewares/) 
+
+### December 5, 2016
+- [What To Expect From JavaScript In 2016  - Frameworks - Telerik Developer Network](http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-frameworks/) 
