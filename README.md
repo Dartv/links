@@ -108,3 +108,6 @@
 
 ### December 5, 2016
 - [What To Expect From JavaScript In 2016  - Frameworks - Telerik Developer Network](http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-frameworks/) 
+
+### December 7, 2016
+- [Improving React and Redux performance with Reselect](http://blog.rangle.io/react-and-redux-performance-with-reselect/) 
