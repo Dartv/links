@@ -111,3 +111,6 @@
 
 ### December 7, 2016
 - [Improving React and Redux performance with Reselect](http://blog.rangle.io/react-and-redux-performance-with-reselect/) 
+
+### December 20, 2016
+- [Stacked Cards](https://junedchhipa.github.io/stacked-cards/) 
