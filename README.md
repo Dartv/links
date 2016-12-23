@@ -114,3 +114,6 @@
 
 ### December 20, 2016
 - [Stacked Cards](https://junedchhipa.github.io/stacked-cards/) 
+
+### December 23, 2016
+- [React or Vue: Which Javascript UI Library Should You Be Using? – JS Dojo – Medium](https://medium.com/js-dojo/react-or-vue-which-javascript-ui-library-should-you-be-using-543a383608d#.f2t0ts4uh) 
