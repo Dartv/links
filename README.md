@@ -121,3 +121,4 @@
 
 ### January 3, 2017
 - [Why Recursive Data Structures?](http://raganwald.com/2016/12/27/recursive-data-structures.html) 
+- [stoeffel/awesome-fp-js: A curated list of awesome functional programming stuff in js](https://github.com/stoeffel/awesome-fp-js) 
