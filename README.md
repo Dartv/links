@@ -118,3 +118,6 @@
 ### December 23, 2016
 - [React or Vue: Which Javascript UI Library Should You Be Using? – JS Dojo – Medium](https://medium.com/js-dojo/react-or-vue-which-javascript-ui-library-should-you-be-using-543a383608d#.f2t0ts4uh) 
 - [Optimizing react-redux store for high performance updates – Medium](https://medium.com/@lavrton/optimizing-react-redux-store-for-high-performance-updates-3ae6f7f1e4c1#.59wdmfqzd) 
+
+### January 3, 2017
+- [Why Recursive Data Structures?](http://raganwald.com/2016/12/27/recursive-data-structures.html) 
