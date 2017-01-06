@@ -125,3 +125,6 @@
 
 ### January 4, 2017
 - [React Interview Questions](https://tylermcginnis.com/react-interview-questions/) 
+
+### January 6, 2017
+- [ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) 
