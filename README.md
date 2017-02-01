@@ -132,3 +132,6 @@
 
 ### January 17, 2017
 - [developit/mitt: Tiny 200b functional event emitter / pubsub.](https://github.com/developit/mitt) 
+
+### February 1, 2017
+- [Introduction · Front-end Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/) 
