@@ -135,3 +135,6 @@
 
 ### February 1, 2017
 - [Introduction · Front-end Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/) 
+
+### February 6, 2017
+- [ES6 Modules, AMD and CommonJS – Medium](https://medium.com/@brianleroux/es6-modules-amd-and-commonjs-c1acefbe6fc0#.x7mil4eib) 
