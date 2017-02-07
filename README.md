@@ -139,3 +139,6 @@
 ### February 6, 2017
 - [ES6 Modules, AMD and CommonJS – Medium](https://medium.com/@brianleroux/es6-modules-amd-and-commonjs-c1acefbe6fc0#.x7mil4eib) 
 - [Apollo Client 0.8](https://dev-blog.apollodata.com/apollo-client-0-8-e8db5efc75fb#.x1ef1xe31) 
+
+### February 7, 2017
+- [Next on Next.js](https://jsmantra.com/next-on-next-js-1a134505f346#.2vhc4o7z1) 
