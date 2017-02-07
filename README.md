@@ -142,3 +142,4 @@
 
 ### February 7, 2017
 - [Next on Next.js](https://jsmantra.com/next-on-next-js-1a134505f346#.2vhc4o7z1) 
+- [All JavaScript frameworks are terrible – Medium](https://medium.com/@mattburgess/all-javascript-frameworks-are-terrible-e68d8865183e#.dwm92g6r2) 
