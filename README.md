@@ -146,3 +146,6 @@
 
 ### February 8, 2017
 - [Fun with Console object](https://dev.to/duchienvuong/fun-with-console-object) 
+
+### February 13, 2017
+- [Dissecting Twitter’s Redux Store – Statuscode – Medium](https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1#.7lz2yvv9j) 
