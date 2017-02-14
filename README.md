@@ -149,3 +149,6 @@
 
 ### February 13, 2017
 - [Dissecting Twitter’s Redux Store – Statuscode – Medium](https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1#.7lz2yvv9j) 
+
+### February 14, 2017
+- [ES6 Features](https://codetower.github.io/es6-features/) 
