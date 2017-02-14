@@ -152,3 +152,4 @@
 
 ### February 14, 2017
 - [ES6 Features](https://codetower.github.io/es6-features/) 
+- [Some Tiny Javascript Optimizations](http://manong.blog/post/tiny-javascript-optimizations/) 
