@@ -153,3 +153,6 @@
 ### February 14, 2017
 - [ES6 Features](https://codetower.github.io/es6-features/) 
 - [Some Tiny Javascript Optimizations](http://manong.blog/post/tiny-javascript-optimizations/) 
+
+### February 15, 2017
+- [Under the hood of the League Client’s Hextech UI | Riot Games Engineering](https://engineering.riotgames.com/news/under-hood-league-client%E2%80%99s-hextech-ui) 
