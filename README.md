@@ -156,3 +156,6 @@
 
 ### February 15, 2017
 - [Under the hood of the League Client’s Hextech UI | Riot Games Engineering](https://engineering.riotgames.com/news/under-hood-league-client%E2%80%99s-hextech-ui) 
+
+### February 21, 2017
+- [Isleward / isleward · GitLab](https://gitlab.com/Isleward/isleward) 
