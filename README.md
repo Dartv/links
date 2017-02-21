@@ -160,3 +160,4 @@
 ### February 21, 2017
 - [Isleward / isleward · GitLab](https://gitlab.com/Isleward/isleward) 
 - [My journey on using the hidden Airbnb API and writing my first Electron application](https://medium.com/@nicolasblanco/my-journey-on-using-the-hidden-airbnb-api-and-writing-my-first-electron-application-34c9dfabbc65#.kd0iv8vuj) 
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
