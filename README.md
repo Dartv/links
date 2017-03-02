@@ -169,3 +169,4 @@
 - [Before you bury yourself in packages, learn the Node.js runtime itself](https://medium.freecodecamp.com/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69#.5b6ddn90f) 
 - [Low effort, high value. Integration tests in Redux apps.](https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a590bd9fd5#.usks80o9a) 
 - [A Map To Modern JavaScript Development (2017) – Medium](https://medium.com/@sdeleon28/a-map-to-modern-javascript-development-2017-16d9eb86309c#.v7qpslsne) 
+- [React.js Efficient Server Rending](https://medium.com/@tigranbs/react-js-efficient-server-rending-5dcb2a0ae14a#.y79doqivl) 
