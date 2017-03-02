@@ -167,3 +167,4 @@
 
 ### March 2, 2017
 - [Before you bury yourself in packages, learn the Node.js runtime itself](https://medium.freecodecamp.com/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69#.5b6ddn90f) 
+- [Low effort, high value. Integration tests in Redux apps.](https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a590bd9fd5#.usks80o9a) 
