@@ -170,3 +170,6 @@
 - [Low effort, high value. Integration tests in Redux apps.](https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a590bd9fd5#.usks80o9a) 
 - [A Map To Modern JavaScript Development (2017) – Medium](https://medium.com/@sdeleon28/a-map-to-modern-javascript-development-2017-16d9eb86309c#.v7qpslsne) 
 - [React.js Efficient Server Rending](https://medium.com/@tigranbs/react-js-efficient-server-rending-5dcb2a0ae14a#.y79doqivl) 
+
+### March 14, 2017
+- [Observables Proposal for ECMAScript!](https://ponyfoo.com/articles/observables-coming-to-ecmascript) 
