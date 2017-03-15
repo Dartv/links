@@ -173,3 +173,6 @@
 
 ### March 14, 2017
 - [Observables Proposal for ECMAScript!](https://ponyfoo.com/articles/observables-coming-to-ecmascript) 
+
+### March 15, 2017
+- [Introducing React Loadable – Medium](https://medium.com/@thejameskyle/react-loadable-2674c59de178#.nxeo6cokk) 
