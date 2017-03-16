@@ -176,3 +176,6 @@
 
 ### March 15, 2017
 - [Introducing React Loadable – Medium](https://medium.com/@thejameskyle/react-loadable-2674c59de178#.nxeo6cokk) 
+
+### March 16, 2017
+- [The broken promise of Web Components | A Place Where Even Mammoths Fly](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/) 
