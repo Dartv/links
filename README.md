@@ -179,3 +179,6 @@
 
 ### March 16, 2017
 - [The broken promise of Web Components | A Place Where Even Mammoths Fly](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/) 
+
+### April 14, 2017
+- [How We Built r/Place – Upvoted](https://redditblog.com/2017/04/13/how-we-built-rplace/) 
