@@ -182,3 +182,6 @@
 
 ### April 14, 2017
 - [How We Built r/Place – Upvoted](https://redditblog.com/2017/04/13/how-we-built-rplace/) 
+
+### May 4, 2017
+- [45% Faster React Functional Components, Now – Missive App – Medium](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f) 
