@@ -185,3 +185,6 @@
 
 ### May 4, 2017
 - [45% Faster React Functional Components, Now – Missive App – Medium](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f) 
+
+### May 11, 2017
+- [JSDoc: Home](https://mgechev.github.io/javascript-algorithms/) 
