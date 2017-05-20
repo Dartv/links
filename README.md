@@ -189,3 +189,6 @@
 ### May 11, 2017
 - [JSDoc: Home](https://mgechev.github.io/javascript-algorithms/) 
 - [How to setup Webpack +2.0 from scratch in 2017 – Indrek Lasn – Medium](https://medium.com/@wesharehoodies/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e) 
+
+### May 20, 2017
+- [Introducing Launchpad: The GraphQL server demo platform](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba) 
