@@ -192,3 +192,6 @@
 
 ### May 20, 2017
 - [Introducing Launchpad: The GraphQL server demo platform](https://dev-blog.apollodata.com/introducing-launchpad-the-graphql-server-demo-platform-cc4e7481fcba) 
+
+### May 21, 2017
+- [Employers, let your people work from home > The MidnightDBA Star-Times](http://www.midnightdba.com/Jen/2017/05/employers-let-people-work-home/) 
