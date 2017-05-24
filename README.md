@@ -195,3 +195,6 @@
 
 ### May 21, 2017
 - [Employers, let your people work from home > The MidnightDBA Star-Times](http://www.midnightdba.com/Jen/2017/05/employers-let-people-work-home/) 
+
+### May 24, 2017
+- [Muzietto/es6-lambda-calculus: Describing lambda-calculus using ES6 arrow notation (currently only on Chrome, FF, IE11 and Edge)](https://github.com/Muzietto/es6-lambda-calculus#natural-numbers) 
