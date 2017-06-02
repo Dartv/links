@@ -198,3 +198,6 @@
 
 ### May 24, 2017
 - [Muzietto/es6-lambda-calculus: Describing lambda-calculus using ES6 arrow notation (currently only on Chrome, FF, IE11 and Edge)](https://github.com/Muzietto/es6-lambda-calculus#natural-numbers) 
+
+### June 2, 2017
+- [Announcing Meteor 1.5 – Meteor Blog](https://blog.meteor.com/announcing-meteor-1-5-b82be66571bb) 
