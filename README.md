@@ -201,3 +201,6 @@
 
 ### June 2, 2017
 - [Announcing Meteor 1.5 – Meteor Blog](https://blog.meteor.com/announcing-meteor-1-5-b82be66571bb) 
+
+### July 3, 2017
+- [Under the hood: ReactJS](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/) 
