@@ -204,3 +204,6 @@
 
 ### July 3, 2017
 - [Under the hood: ReactJS](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/) 
+
+### July 6, 2017
+- [Testing a GraphQL Server using Jest – Entria – Medium](https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e) 
