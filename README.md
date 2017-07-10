@@ -207,3 +207,6 @@
 
 ### July 6, 2017
 - [Testing a GraphQL Server using Jest – Entria – Medium](https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e) 
+
+### July 10, 2017
+- [H.264 is magic: a technical walkthrough of a remarkable technology.](https://sidbala.com/h-264-is-magic/) 
