@@ -214,3 +214,4 @@
 ### July 29, 2017 
 - [Build your own React Router v4](https://tylermcginnis.com/build-your-own-react-router-v4/) 
 - [React Interview Questions](https://tylermcginnis.com/react-interview-questions/) 
+- [GraphQL vs REST: Overview | Phil Sturgeon](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/) 
