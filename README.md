@@ -210,3 +210,6 @@
 
 ### July 10, 2017
 - [H.264 is magic: a technical walkthrough of a remarkable technology.](https://sidbala.com/h-264-is-magic/) 
+
+### July 29, 2017 
+- [Build your own React Router v4](https://tylermcginnis.com/build-your-own-react-router-v4/) 
