@@ -215,3 +215,6 @@
 - [Build your own React Router v4](https://tylermcginnis.com/build-your-own-react-router-v4/) 
 - [React Interview Questions](https://tylermcginnis.com/react-interview-questions/) 
 - [GraphQL vs REST: Overview | Phil Sturgeon](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/) 
+
+### August 18, 2017 
+- [On `this` in Javascript](http://georgemauer.net/2017/08/03/on-this-in-javascript.html) 
