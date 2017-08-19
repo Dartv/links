@@ -218,3 +218,6 @@
 
 ### August 18, 2017 
 - [On `this` in Javascript](http://georgemauer.net/2017/08/03/on-this-in-javascript.html) 
+
+### August 19, 2017 
+- [GraphQL Servers Overview Tutorial](https://www.howtographql.com/advanced/1-server/) 
