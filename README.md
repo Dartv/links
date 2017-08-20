@@ -221,3 +221,6 @@
 
 ### August 19, 2017 
 - [Learn GraphQL Fundamentals with Fullstack Tutorial](https://www.howtographql.com/basics/0-introduction/) 
+
+### August 20, 2017 
+- [Repatch - the simplified Redux | @RisingStack](https://community.risingstack.com/repatch-the-simplified-redux/) 
