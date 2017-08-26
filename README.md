@@ -227,3 +227,4 @@
 
 ### August 26, 2017 
 - [Architecting Electron Applications for 60fps | nearForm](https://www.nearform.com/blog/architecting-electron-applications-for-60fps/) 
+- [NodeJS and GraphicsMagick: Cropping and resizing images on your server](https://blog.campvanilla.com/nodejs-graphicsmagick-cropping-resizing-server-api-b410fe98e41) 
