@@ -224,3 +224,6 @@
 
 ### August 20, 2017 
 - [Repatch - the simplified Redux | @RisingStack](https://community.risingstack.com/repatch-the-simplified-redux/) 
+
+### August 26, 2017 
+- [Architecting Electron Applications for 60fps | nearForm](https://www.nearform.com/blog/architecting-electron-applications-for-60fps/) 
