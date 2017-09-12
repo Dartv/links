@@ -233,3 +233,4 @@
 
 ### September 12, 2017 
 - [Seeing Through Redux with Lenses – Tim Roberts – Medium](https://medium.com/@BeardedTim/seeing-through-redux-with-lenses-112ecb250f4) 
+- [Using that Headless Chrome You’ve Been Hearing About](https://medium.com/@ivanmontiel/using-that-headless-chrome-youve-been-hearing-about-543a8cc07af5) 
