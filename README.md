@@ -230,3 +230,6 @@
 - [NodeJS and GraphicsMagick: Cropping and resizing images on your server](https://blog.campvanilla.com/nodejs-graphicsmagick-cropping-resizing-server-api-b410fe98e41) 
 - [[MO] Kick start a JS GraphQL 3 layers API with Apollo-server, Dataloader and Knex · Dev Standards](https://bamtech.gitbooks.io/dev-standards/content/backend/graphql-js/getting-started-with-apollo-server-dataloader-knex.mo.html) 
 - [Rock Solid Endpoints: Using Jest snapshot testing for api integrations](https://medium.com/@ericwooley/rock-solid-endpoints-using-jest-snapshot-testing-for-api-integration-tests-41bf72f96c46) 
+
+### September 12, 2017 
+- [Seeing Through Redux with Lenses – Tim Roberts – Medium](https://medium.com/@BeardedTim/seeing-through-redux-with-lenses-112ecb250f4) 
