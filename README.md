@@ -237,3 +237,6 @@
 
 ### September 20, 2017 
 - [(Now More Than Ever) You Might Not Need jQuery | CSS-Tricks](https://css-tricks.com/now-ever-might-not-need-jquery/) 
+
+### September 27, 2017 
+- [React v16.0 - React Blog](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html) 
