@@ -240,3 +240,6 @@
 
 ### September 27, 2017 
 - [React v16.0 - React Blog](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html) 
+
+### September 28, 2017 
+- [Don’t Load All Your Web Components at Once – Behind the Screens – Medium](https://medium.com/behind-the-screens/dont-load-all-your-web-components-at-once-19580acd86f3) 
