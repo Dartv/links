@@ -243,3 +243,4 @@
 
 ### September 28, 2017 
 - [Don’t Load All Your Web Components at Once – Behind the Screens – Medium](https://medium.com/behind-the-screens/dont-load-all-your-web-components-at-once-19580acd86f3) 
+- [Using requestIdleCallback  |  Web  |  Google Developers](https://developers.google.com/web/updates/2015/08/using-requestidlecallback) 
