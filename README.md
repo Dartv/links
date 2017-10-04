@@ -249,3 +249,6 @@
 
 ### October 2, 2017 
 - [Supercharging Frontend Development with VS Code](https://zach.codes/supercharging-react-app-development/) 
+
+### October 4, 2017 
+- [setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation | Void Canvas](http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/) 
