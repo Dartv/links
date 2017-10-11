@@ -252,3 +252,6 @@
 
 ### October 4, 2017 
 - [setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation | Void Canvas](http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/) 
+
+### October 11, 2017 
+- [Lessons from migrating a large codebase to React 16](https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6) 
