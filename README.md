@@ -255,3 +255,6 @@
 
 ### October 11, 2017 
 - [Lessons from migrating a large codebase to React 16](https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6) 
+
+### October 14, 2017 
+- [JavaScript got better while I wasn’t looking / fuzzy notepad](https://eev.ee/blog/2017/10/07/javascript-got-better-while-i-wasnt-looking/) 
