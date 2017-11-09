@@ -258,3 +258,6 @@
 
 ### October 14, 2017 
 - [JavaScript got better while I wasn’t looking / fuzzy notepad](https://eev.ee/blog/2017/10/07/javascript-got-better-while-i-wasnt-looking/) 
+
+### November 9, 2017 
+- [i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated](https://github.com/i0natan/nodebestpractices) 
