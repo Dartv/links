@@ -262,3 +262,6 @@
 ### November 9, 2017 
 - [i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated](https://github.com/i0natan/nodebestpractices) 
 - [(2) Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript - YouTube](https://www.youtube.com/watch?v=3VQ382QG-y4&app=desktop) 
+
+### November 10, 2017 
+- [A Flock of Functions: Combinators, Lambda Calculus, & Church Encodings in JS - Part II - YouTube](https://www.youtube.com/watch?v=pAnLQ9jwN-E&t=14s) 
