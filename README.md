@@ -270,3 +270,4 @@
 - [The Rise and Fall and Rise of Functional Programming (Composing Software) – JavaScript Scene – Medium](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c) 
 - [Why Learn Functional Programming in JavaScript? (Composing Software) – JavaScript Scene – Medium](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257) 
 - [A Functional Programmer’s Introduction to JavaScript (Composing Software) – JavaScript Scene – Medium](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30) 
+- [Higher Order Functions (Composing Software) – JavaScript Scene – Medium](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99) 
