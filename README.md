@@ -265,3 +265,6 @@
 
 ### November 10, 2017 
 - [A Flock of Functions: Combinators, Lambda Calculus, & Church Encodings in JS - Part II - YouTube](https://www.youtube.com/watch?v=pAnLQ9jwN-E&t=14s) 
+
+### November 16, 2017 
+- [The Rise and Fall and Rise of Functional Programming (Composing Software) – JavaScript Scene – Medium](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c) 
