@@ -271,3 +271,4 @@
 - [Why Learn Functional Programming in JavaScript? (Composing Software) – JavaScript Scene – Medium](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257) 
 - [A Functional Programmer’s Introduction to JavaScript (Composing Software) – JavaScript Scene – Medium](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30) 
 - [Higher Order Functions (Composing Software) – JavaScript Scene – Medium](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99) 
+- [Reduce (Composing Software) – JavaScript Scene – Medium](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d) 
