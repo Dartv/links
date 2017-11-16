@@ -274,3 +274,4 @@
 - [Reduce (Composing Software) – JavaScript Scene – Medium](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d) 
 - [Functors & Categories – JavaScript Scene – Medium](https://medium.com/javascript-scene/functors-categories-61e031bac53f) 
 - [Why Composition is Harder with Classes – JavaScript Scene – Medium](https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa) 
+- [Composable Datatypes with Functions – JavaScript Scene – Medium](https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093) 
