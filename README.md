@@ -276,3 +276,6 @@
 - [Why Composition is Harder with Classes – JavaScript Scene – Medium](https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa) 
 - [Composable Datatypes with Functions – JavaScript Scene – Medium](https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093) 
 - [JavaScript Monads Made Simple – JavaScript Scene – Medium](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8) 
+
+### December 2, 2017 
+- [How to build your own CMS, and why you shouldn't](https://blog.intracto.com/how-to-write-your-own-cms-and-why-you-shouldnt) 
