@@ -283,3 +283,4 @@
 
 ### December 14, 2017 
 - [Fun hacks for faster content - JakeArchibald.com](https://jakearchibald.com/2016/fun-hacks-faster-content/#newline-delimited-json)
+- [The State of JavaScript 2017: Introduction](https://stateofjs.com/2017/introduction/) 
