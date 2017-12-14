@@ -280,3 +280,6 @@
 ### December 2, 2017 
 - [How to build your own CMS, and why you shouldn't](https://blog.intracto.com/how-to-write-your-own-cms-and-why-you-shouldnt) 
 - [The Modern Javascript Tutorial](https://javascript.info/) 
+
+### December 14, 2017 
+- [Fun hacks for faster content - JakeArchibald.com](https://jakearchibald.com/2016/fun-hacks-faster-content/#newline-delimited-json) 
