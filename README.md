@@ -282,5 +282,4 @@
 - [The Modern Javascript Tutorial](https://javascript.info/) 
 
 ### December 14, 2017 
-- [Fun hacks for faster content - JakeArchibald.com](https://jakearchibald.com/2016/fun-hacks-faster-content/#newline-delimited-json) 
-- [Netflix functions without client-side React, and it's a good thing - JakeArchibald.com](https://jakearchibald.com/2017/netflix-and-react/) 
+- [Fun hacks for faster content - JakeArchibald.com](https://jakearchibald.com/2016/fun-hacks-faster-content/#newline-delimited-json)
