@@ -284,3 +284,6 @@
 ### December 14, 2017 
 - [Fun hacks for faster content - JakeArchibald.com](https://jakearchibald.com/2016/fun-hacks-faster-content/#newline-delimited-json)
 - [The State of JavaScript 2017: Introduction](https://stateofjs.com/2017/introduction/) 
+
+### December 23, 2017 
+- [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3) 
