@@ -287,3 +287,6 @@
 
 ### December 23, 2017 
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3) 
+
+### January 22, 2018 
+- [micro-frontends/index.md at master · neuland/micro-frontends](https://github.com/neuland/micro-frontends/blob/master/index.md) 
