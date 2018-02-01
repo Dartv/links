@@ -290,3 +290,6 @@
 
 ### January 22, 2018 
 - [micro-frontends/index.md at master · neuland/micro-frontends](https://github.com/neuland/micro-frontends/blob/master/index.md) 
+
+### February 1, 2018 
+- [Designing GraphQL Mutations – Apollo GraphQL](https://dev-blog.apollodata.com/designing-graphql-mutations-e09de826ed97) 
