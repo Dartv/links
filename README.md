@@ -293,3 +293,6 @@
 
 ### February 1, 2018 
 - [Designing GraphQL Mutations – Apollo GraphQL](https://dev-blog.apollodata.com/designing-graphql-mutations-e09de826ed97) 
+
+### February 2, 2018 
+- [wearehive/project-guidelines: A set of best practices for JavaScript projects](https://github.com/wearehive/project-guidelines) 
