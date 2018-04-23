@@ -299,3 +299,4 @@
 
 ### April 23, 2018 
 - [Designing very large (JavaScript) applications – Malte Ubl – Medium](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3) 
+- [Dependencies Done Right | Yarn Blog](https://yarnpkg.com/blog/2018/04/18/dependencies-done-right/) 
