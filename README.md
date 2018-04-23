@@ -296,3 +296,6 @@
 
 ### February 2, 2018 
 - [wearehive/project-guidelines: A set of best practices for JavaScript projects](https://github.com/wearehive/project-guidelines) 
+
+### April 23, 2018 
+- [Designing very large (JavaScript) applications – Malte Ubl – Medium](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3) 
