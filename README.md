@@ -302,3 +302,6 @@
 - [Dependencies Done Right | Yarn Blog](https://yarnpkg.com/blog/2018/04/18/dependencies-done-right/) 
 - [Web Security for Single Page Applications: great impact with little effort](https://techblog.commercetools.com/web-security-for-single-page-applications-great-impact-with-little-effort-a7a506cec20b) 
 - [How To Write Better Code In React – Bits and Pieces](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0) 
+
+### April 24, 2018 
+- [The Node.js Ecosystem Is Chaotic and Insecure – Casper Beyer – Medium](https://medium.com/@caspervonb/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068) 
