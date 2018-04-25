@@ -305,3 +305,6 @@
 
 ### April 24, 2018 
 - [The Node.js Ecosystem Is Chaotic and Insecure – Casper Beyer – Medium](https://medium.com/@caspervonb/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068) 
+
+### April 25, 2018 
+- [Using async iteration natively in Node.js](http://2ality.com/2018/04/async-iter-nodejs.html) 
