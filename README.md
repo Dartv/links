@@ -309,3 +309,4 @@
 ### April 25, 2018 
 - [Using async iteration natively in Node.js](http://2ality.com/2018/04/async-iter-nodejs.html) 
 - [What’s New in Node 10 – gitconnected](https://levelup.gitconnected.com/whats-new-in-node-10-ad360ae55ee4) 
+- [Announcing npm@6 – npm, Inc. – Medium](https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905) 
