@@ -311,3 +311,6 @@
 - [What’s New in Node 10 – gitconnected](https://levelup.gitconnected.com/whats-new-in-node-10-ad360ae55ee4) 
 - [Announcing npm@6 – npm, Inc. – Medium](https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905) 
 - [Testing Strategies for React and Redux – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/) 
+
+### April 27, 2018 
+- [Reusable GraphQL schema directives – Apollo GraphQL](https://dev-blog.apollodata.com/reusable-graphql-schema-directives-131fb3a177d1) 
