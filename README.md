@@ -315,3 +315,4 @@
 ### April 27, 2018 
 - [Reusable GraphQL schema directives – Apollo GraphQL](https://dev-blog.apollodata.com/reusable-graphql-schema-directives-131fb3a177d1) 
 - [HOMM](http://homm.lekzd.ru/) 
+- [«Герои Меча и Магии» в браузере: долго, сложно и невыносимо интересно / Блог компании JUG.ru Group / Хабр](https://habr.com/company/jugru/blog/354014/) 
