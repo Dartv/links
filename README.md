@@ -321,3 +321,6 @@
 - [GraphQL: 3 Years in, and lessons learned – Hacker Noon](https://hackernoon.com/graphql-3-years-in-and-lessons-learned-34e8cd3fcfdd) 
 - [An Easy to Understand Webpack 4+ Configuration File with Comments](https://gist.github.com/timurcatakli/f219364ecb4e291338f14dac4d64d534) 
 - [React.js Examples](https://reactjsexample.com/) 
+
+### May 11, 2018 
+- [A Taxonomy of Tech Debt | Riot Games Engineering](https://engineering.riotgames.com/news/taxonomy-tech-debt) 
