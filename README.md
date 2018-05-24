@@ -324,3 +324,6 @@
 
 ### May 11, 2018 
 - [A Taxonomy of Tech Debt | Riot Games Engineering](https://engineering.riotgames.com/news/taxonomy-tech-debt) 
+
+### May 24, 2018 
+- [Algorithms and Data Structures in JavaScript – ITNEXT](https://itnext.io/algorithms-and-data-structures-in-javascript-a71548f902cb) 
