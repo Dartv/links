@@ -327,3 +327,4 @@
 
 ### May 24, 2018 
 - [Algorithms and Data Structures in JavaScript – ITNEXT](https://itnext.io/algorithms-and-data-structures-in-javascript-a71548f902cb) 
+- [Building a Progressive Web App in React – Perficient Digital Labs](https://blog.truthlabs.com/building-a-progressive-web-app-in-react-11c77a7fccb3) 
