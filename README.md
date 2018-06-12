@@ -1,5 +1,8 @@
 # links
 
+
+### June 12, 2018 
+- [Developing a Mobile App with GraphQL – Float](https://blog.float.com/developing-a-mobile-app-with-graphql-66fc5cb76eaf) 
 ### June 8, 2018 
 - [Using Micro-Frontends to Permanently Solve the Legacy JavaScript Problem](https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac) 
 ### August 19, 2016
