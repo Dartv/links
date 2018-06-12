@@ -3,6 +3,7 @@
 
 ### June 12, 2018 
 - [Developing a Mobile App with GraphQL – Float](https://blog.float.com/developing-a-mobile-app-with-graphql-66fc5cb76eaf) 
+- [Javascript Classes — Under The Hood – tajawal – Medium](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677) 
 ### June 8, 2018 
 - [Using Micro-Frontends to Permanently Solve the Legacy JavaScript Problem](https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac) 
 ### August 19, 2016
