@@ -1,6 +1,9 @@
 # links
 
 
+
+### July 20, 2018 
+- [My Approach to do Unit Test in React [Opinionated]](https://jquintanab.com/react-unit-test) 
 ### June 12, 2018 
 - [Developing a Mobile App with GraphQL – Float](https://blog.float.com/developing-a-mobile-app-with-graphql-66fc5cb76eaf) 
 - [Javascript Classes — Under The Hood – tajawal – Medium](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677) 
