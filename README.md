@@ -2,6 +2,9 @@
 
 
 
+
+### July 26, 2018 
+- [✨ Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530) 
 ### July 20, 2018 
 - [My Approach to do Unit Test in React [Opinionated]](https://jquintanab.com/react-unit-test) 
 ### June 12, 2018 
