@@ -7,6 +7,7 @@
 - [✨ Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530) 
 - [Why GraphQL: Advantages, Disadvantages & Alternatives - RWieruch](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/) 
 - [Why Apollo: Advantages, Disadvantages & Alternatives - RWieruch](https://www.robinwieruch.de/why-apollo-advantages-disadvantages-alternatives/) 
+- [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/) 
 ### July 20, 2018 
 - [My Approach to do Unit Test in React [Opinionated]](https://jquintanab.com/react-unit-test) 
 ### June 12, 2018 
