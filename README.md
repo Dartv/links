@@ -3,6 +3,9 @@
 
 
 
+
+### August 21, 2018 
+- [10 Things You Will Eventually Learn About JavaScript Projects](https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a) 
 ### July 26, 2018 
 - [✨ Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530) 
 - [Why GraphQL: Advantages, Disadvantages & Alternatives - RWieruch](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/) 
