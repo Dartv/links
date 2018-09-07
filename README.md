@@ -4,6 +4,9 @@
 
 
 
+
+### September 7, 2018 
+- [Google AMP Can Go To Hell | Polemic Digital](https://www.polemicdigital.com/google-amp-go-to-hell/) 
 ### August 21, 2018 
 - [10 Things You Will Eventually Learn About JavaScript Projects](https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a) 
 ### July 26, 2018 
