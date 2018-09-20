@@ -5,6 +5,9 @@
 
 
 
+
+### September 20, 2018 
+- [The Solo JavaScript Developer Challenging Google and Facebook | WIRED](https://www.wired.com/story/the-solo-javascript-developer-challenging-google-facebook/) 
 ### September 7, 2018 
 - [Google AMP Can Go To Hell | Polemic Digital](https://www.polemicdigital.com/google-amp-go-to-hell/) 
 - [Reduce JavaScript Payloads with Code Splitting  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/) 
