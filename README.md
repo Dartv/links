@@ -6,6 +6,9 @@
 
 
 
+
+### October 17, 2018 
+- [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/) 
 ### September 20, 2018 
 - [The Solo JavaScript Developer Challenging Google and Facebook | WIRED](https://www.wired.com/story/the-solo-javascript-developer-challenging-google-facebook/) 
 ### September 7, 2018 
