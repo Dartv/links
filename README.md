@@ -7,6 +7,9 @@
 
 
 
+
+### March 5, 2019 
+- [Performance optimized JS architecture – ITNEXT](https://itnext.io/performance-optimized-js-architecture-e95241d061f) 
 ### October 17, 2018 
 - [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/) 
 ### September 20, 2018 
