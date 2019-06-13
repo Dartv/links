@@ -9,6 +9,9 @@
 
 
 
+
+### June 13, 2019 
+- [Apollo Federation – Apollo GraphQL](https://blog.apollographql.com/apollo-federation-f260cf525d21) 
 ### March 13, 2019 
 - [Why you shouldn't use Moment.js... - InventiStudio: Vue.js & Node.js development agency - Wrocław](https://inventi.studio/en/blog/why-you-shouldnt-use-moment-js) 
 ### March 5, 2019 
