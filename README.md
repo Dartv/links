@@ -10,6 +10,9 @@
 
 
 
+
+### October 4, 2019 
+- [127 Helpful JavaScript Snippets You Can Learn in 30 Seconds or Less — Part 1 of 6](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-1-of-6-bc2bc890dfe5) 
 ### June 13, 2019 
 - [Apollo Federation – Apollo GraphQL](https://blog.apollographql.com/apollo-federation-f260cf525d21) 
 ### March 13, 2019 
