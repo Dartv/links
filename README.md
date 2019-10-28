@@ -11,6 +11,9 @@
 
 
 
+
+### October 28, 2019 
+- [The Twelve-Factor App](https://12factor.net/) 
 ### October 4, 2019 
 - [127 Helpful JavaScript Snippets You Can Learn in 30 Seconds or Less — Part 1 of 6](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-1-of-6-bc2bc890dfe5) 
 ### June 13, 2019 
