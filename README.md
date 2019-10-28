@@ -15,6 +15,7 @@
 ### October 28, 2019 
 - [The Twelve-Factor App](https://12factor.net/) 
 - [Even the Smallest Side Project Deserves its CI/CD Pipeline](https://medium.com/better-programming/even-the-smallest-side-project-deserves-its-ci-cd-pipeline-281f80f39fdf) 
+- [Even the Smallest Side Project Deserves Its K8s Cluster](https://medium.com/better-programming/even-the-smallest-side-project-deserves-its-k8s-cluster-3fc6f8a65e13) 
 ### October 4, 2019 
 - [127 Helpful JavaScript Snippets You Can Learn in 30 Seconds or Less — Part 1 of 6](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-1-of-6-bc2bc890dfe5) 
 ### June 13, 2019 
