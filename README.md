@@ -12,6 +12,9 @@
 
 
 
+
+### November 1, 2019 
+- [Connecting to AWS DocumentDB from a Lambda function](https://blog.webiny.com/connecting-to-aws-documentdb-from-a-lambda-function-2b666c9e4402) 
 ### October 28, 2019 
 - [The Twelve-Factor App](https://12factor.net/) 
 - [Even the Smallest Side Project Deserves its CI/CD Pipeline](https://medium.com/better-programming/even-the-smallest-side-project-deserves-its-ci-cd-pipeline-281f80f39fdf) 
