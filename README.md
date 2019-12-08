@@ -18,6 +18,7 @@
 - [JavaScript doesn’t need to be replaced - JavaScript in Plain English - Medium](https://medium.com/javascript-in-plain-english/javascript-doesnt-need-to-be-replaced-bd01e2f12d51) 
 - [Making Instagram.com faster: Part 1 - Instagram Engineering](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538) 
 - [Making Instagram.com faster: Part 2 - Instagram Engineering](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4) 
+- [Making Instagram.com faster: Part 3 — cache first - Instagram Engineering](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) 
 ### November 1, 2019 
 - [Connecting to AWS DocumentDB from a Lambda function](https://blog.webiny.com/connecting-to-aws-documentdb-from-a-lambda-function-2b666c9e4402) 
 ### October 28, 2019 
