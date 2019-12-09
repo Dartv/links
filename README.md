@@ -14,6 +14,9 @@
 
 
 
+
+### December 9, 2019 
+- [Using HTTP/2 with Next.js & Express - ITNEXT](https://itnext.io/using-http-2-with-next-js-express-917791ca249b) 
 ### December 8, 2019 
 - [JavaScript doesn’t need to be replaced - JavaScript in Plain English - Medium](https://medium.com/javascript-in-plain-english/javascript-doesnt-need-to-be-replaced-bd01e2f12d51) 
 - [Making Instagram.com faster: Part 1 - Instagram Engineering](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538) 
