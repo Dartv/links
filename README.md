@@ -15,6 +15,9 @@
 
 
 
+
+### December 18, 2019 
+- [Javascript Internals: What’s Under the Hood? | blog4JS](https://www.blog4js.com/2019/12/16/javascript-internals-whats-under-the-hood/) 
 ### December 9, 2019 
 - [Using HTTP/2 with Next.js & Express - ITNEXT](https://itnext.io/using-http-2-with-next-js-express-917791ca249b) 
 ### December 8, 2019 
