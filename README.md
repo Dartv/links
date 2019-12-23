@@ -17,6 +17,9 @@
 
 
 
+
+### December 23, 2019 
+- [Node | AWS EC2 Autoscaling: Creating an EC2 Autoscaling Group](https://node.university/blog/10954/aws-autoscaling) 
 ### December 19, 2019 
 - [Clustering in NodeJs — Performance Optimization — Part I](https://medium.com/tech-tajawal/clustering-in-nodejs-utilizing-multiple-processor-cores-75d78aeb0f4f) 
 - [Clustering in NodeJs - PM2 Process Manager - Performance Optimization- Part II](https://medium.com/tech-tajawal/process-manager-pm2-performance-optimization-part-ii-6ca8e431a578) 
