@@ -18,6 +18,9 @@
 
 
 
+
+### December 24, 2019 
+- [Deploying and scaling Node.js on Google Kubernetes Engine with Continuous Integration](https://levelup.gitconnected.com/dockerizing-deploying-and-scaling-node-js-on-google-kubernetes-engine-with-continuous-integration-f895a98bf6e3) 
 ### December 23, 2019 
 - [Node | AWS EC2 Autoscaling: Creating an EC2 Autoscaling Group](https://node.university/blog/10954/aws-autoscaling) 
 ### December 19, 2019 
