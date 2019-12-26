@@ -19,6 +19,9 @@
 
 
 
+
+### December 26, 2019 
+- [How to deploy a Node.js app to the AWS Elastic Beanstalk](https://www.freecodecamp.org/news/how-to-deploy-a-node-js-app-to-the-aws-elastic-beanstalk-f150899ed977/) 
 ### December 24, 2019 
 - [Deploying and scaling Node.js on Google Kubernetes Engine with Continuous Integration](https://levelup.gitconnected.com/dockerizing-deploying-and-scaling-node-js-on-google-kubernetes-engine-with-continuous-integration-f895a98bf6e3) 
 ### December 23, 2019 
