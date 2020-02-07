@@ -20,6 +20,9 @@
 
 
 
+
+### February 7, 2020 
+- [Building a Continuous Integration & Deployment Pipeline Using Docker (CI/CD) – Tania Rascia](https://www.taniarascia.com/continuous-integration-pipeline-docker/) 
 ### December 26, 2019 
 - [How to deploy a Node.js app to the AWS Elastic Beanstalk](https://www.freecodecamp.org/news/how-to-deploy-a-node-js-app-to-the-aws-elastic-beanstalk-f150899ed977/) 
 ### December 24, 2019 
