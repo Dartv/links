@@ -21,6 +21,9 @@
 
 
 
+
+### June 15, 2020 
+- [Article: Sync Strategies Part 2: Two-Way Syncs - Boomi Community](https://community.boomi.com/s/article/syncstrategiespart2twowaysyncs?r=6&ui-force-components-controllers-recordGlobalValueProvider.RecordGvp.getRecord=1) 
 ### February 7, 2020 
 - [Building a Continuous Integration & Deployment Pipeline Using Docker (CI/CD) – Tania Rascia](https://www.taniarascia.com/continuous-integration-pipeline-docker/) 
 ### December 26, 2019 
