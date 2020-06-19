@@ -26,6 +26,7 @@
 
 ### June 19, 2020 
 - [How JWT works — the implementation | Medium](https://medium.com/@alexcambose/how-jwt-works-in-depth-354cb5dc360d) 
+- [jeffzh4ng/algorithms-and-data-structures: A collection of classical data structures and algorithms implemented in Typescript with video lectures](https://github.com/jeffzh4ng/algorithms-and-data-structures) 
 ### June 18, 2020 
 - [CORS : Understanding Cross Origin Resource Sharing – Arbaz Siddiqui](https://www.arbazsiddiqui.me/cors-understanding-cross-origin-resource-sharing/) 
 - [Yet Another Doom Clone (In 13kb of JavaScript)](https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html) 
