@@ -24,6 +24,9 @@
 
 
 
+
+### June 24, 2020 
+- [How to claw your way out of AWS Lambda function hell using the power of Docker](https://www.freecodecamp.org/news/escaping-lambda-function-hell-using-docker-40b187ec1e48/) 
 ### June 19, 2020 
 - [How JWT works — the implementation | Medium](https://medium.com/@alexcambose/how-jwt-works-in-depth-354cb5dc360d) 
 - [jeffzh4ng/algorithms-and-data-structures: A collection of classical data structures and algorithms implemented in Typescript with video lectures](https://github.com/jeffzh4ng/algorithms-and-data-structures) 
