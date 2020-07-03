@@ -25,6 +25,9 @@
 
 
 
+
+### July 3, 2020 
+- [Understanding TypeScript Type Inference - Better Programming - Medium](https://medium.com/better-programming/understanding-typescript-type-inference-4c25f9777e9e) 
 ### June 24, 2020 
 - [How to claw your way out of AWS Lambda function hell using the power of Docker](https://www.freecodecamp.org/news/escaping-lambda-function-hell-using-docker-40b187ec1e48/) 
 ### June 19, 2020 
