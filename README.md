@@ -26,6 +26,9 @@
 
 
 
+
+### August 13, 2020 
+- [Detect inactive users with the Idle Detection API](https://web.dev/idle-detection/) 
 ### July 3, 2020 
 - [Understanding TypeScript Type Inference - Better Programming - Medium](https://medium.com/better-programming/understanding-typescript-type-inference-4c25f9777e9e) 
 ### June 24, 2020 
