@@ -27,6 +27,9 @@
 
 
 
+
+### August 14, 2020 
+- [Microservices Design Guide 👨‍🏫. Everyone has heard about Microservices… | by Thilina Ashen Gamage | Platform Engineer | Medium](https://medium.com/platform-engineer/microservices-design-guide-eca0b799a7e8) 
 ### August 13, 2020 
 - [Detect inactive users with the Idle Detection API](https://web.dev/idle-detection/) 
 ### July 3, 2020 
