@@ -31,6 +31,7 @@
 
 ### September 22, 2020 
 - [Front-end JavaScript performance | DebugBear](https://www.debugbear.com/blog/front-end-javascript-performance) 
+- [Improving website performance by eliminating render-blocking CSS and JavaScript - DEV Community 👩‍💻👨‍💻](https://dev.to/prototyp/improving-website-performance-by-eliminating-render-blocking-css-and-javascript-28ei) 
 ### August 14, 2020 
 - [Microservices Design Guide 👨‍🏫. Everyone has heard about Microservices… | by Thilina Ashen Gamage | Platform Engineer | Medium](https://medium.com/platform-engineer/microservices-design-guide-eca0b799a7e8) 
 ### August 13, 2020 
