@@ -29,6 +29,9 @@
 
 
 
+
+### September 25, 2020 
+- [The Ultimate Guide to Web Performance 🚀 - DEV Community 👩‍💻👨‍💻](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4) 
 ### September 22, 2020 
 - [Front-end JavaScript performance | DebugBear](https://www.debugbear.com/blog/front-end-javascript-performance) 
 - [Improving website performance by eliminating render-blocking CSS and JavaScript - DEV Community 👩‍💻👨‍💻](https://dev.to/prototyp/improving-website-performance-by-eliminating-render-blocking-css-and-javascript-28ei) 
