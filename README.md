@@ -30,6 +30,9 @@
 
 
 
+
+### October 30, 2020 
+- [It's Time to Say Goodbye to Docker - DEV Community 👩‍💻👨‍💻](https://dev.to/martinheinz/it-s-time-to-say-goodbye-to-docker-386h) 
 ### September 25, 2020 
 - [The Ultimate Guide to Web Performance 🚀 - DEV Community 👩‍💻👨‍💻](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4) 
 ### September 22, 2020 
