@@ -35,6 +35,7 @@
 ### November 4, 2020 
 - [How the browser renders a web page - DEV Community 👩‍💻👨‍💻](https://dev.to/jstarmx/how-the-browser-renders-a-web-page-1ahc) 
 - [30+ Github Repos for JavaScript Developers - DEV Community 👩‍💻👨‍💻](https://dev.to/tuckertriggs/30-github-repos-for-javascript-developers-1350) 
+- [Nobody is working for 8 hours a day, Why? - DEV Community 👩‍💻👨‍💻](https://dev.to/shivenigma/nobody-is-working-for-8-hours-a-day-why-3ilg) 
 ### October 30, 2020 
 - [It's Time to Say Goodbye to Docker - DEV Community 👩‍💻👨‍💻](https://dev.to/martinheinz/it-s-time-to-say-goodbye-to-docker-386h) 
 ### September 25, 2020 
