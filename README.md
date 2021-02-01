@@ -35,6 +35,7 @@
 
 ### February 1, 2021 
 - [SuperTokens 💫, Open Source Alternative to Auth0](https://supertokens.io/blog/all-you-need-to-know-about-user-session-security) 
+- [Best Practices for Secure Session Management in Node | Jscrambler Blog](https://blog.jscrambler.com/best-practices-for-secure-session-management-in-node/) 
 ### November 4, 2020 
 - [How the browser renders a web page - DEV Community 👩‍💻👨‍💻](https://dev.to/jstarmx/how-the-browser-renders-a-web-page-1ahc) 
 - [30+ Github Repos for JavaScript Developers - DEV Community 👩‍💻👨‍💻](https://dev.to/tuckertriggs/30-github-repos-for-javascript-developers-1350) 
