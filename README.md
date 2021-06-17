@@ -33,6 +33,9 @@
 
 
 
+
+### June 17, 2021 
+- [Workers overview](https://web.dev/workers-overview/) 
 ### February 1, 2021 
 - [SuperTokens 💫, Open Source Alternative to Auth0](https://supertokens.io/blog/all-you-need-to-know-about-user-session-security) 
 - [Best Practices for Secure Session Management in Node | Jscrambler Blog](https://blog.jscrambler.com/best-practices-for-secure-session-management-in-node/) 
